@@ -18,6 +18,6 @@ me dio muchas opciones y ideas sobre el diseño que le daria al conversor.</p>
 <hr>
 <h2>ejemplo</h2>
 <hr>
-![image](https://github.com/12emanuel21/Conversor-de-monedas/assets/92338435/846d9865-e2ba-4671-b3b9-1819ee903921)
+https://github.com/12emanuel21/Conversor-de-monedas/assets/92338435/846d9865-e2ba-4671-b3b9-1819ee903921
 <br><br>
-![image](https://github.com/12emanuel21/Conversor-de-monedas/assets/92338435/41325fc1-0891-4931-9c37-115a35098e67)
+https://github.com/12emanuel21/Conversor-de-monedas/assets/92338435/41325fc1-0891-4931-9c37-115a35098e67
