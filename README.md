@@ -1,8 +1,4 @@
-<style>
-    *{
-        font-family: sans-serif;
-    }
-</style>
+
 <center><h1>Conversor de Monedas</h1></center>
 <hr>
 <br>
